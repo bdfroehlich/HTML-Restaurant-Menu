@@ -92,3 +92,32 @@ th {
   border-radius: 10px;
   padding: 5px;
 }
+
+ul {
+    list-style-position: inside;
+}
+
+#about img {
+    width: 60%;
+    height: auto;
+}
+
+nav .current {
+    background-color: rgb(103, 74, 74);
+}
+
+#holiday {
+    width: 100%;
+    padding: 25px;
+    background-color: beige;
+}
+
+footer {
+    width: 100%;
+    padding: 20px;
+    background-color: darkslateblue;
+}
+
+footer p {
+    color: white;
+}
